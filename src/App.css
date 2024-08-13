@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(123, 213, 176);
+}
+
+/* CSS styling for the ButtonGroup. */
+.full-width-button-group {
+    width: 100%;
+}
+
+.full-width-button-group .btn {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.full-width-button-group .btn-link {
+    text-decoration: none;
+    color: black;
+}
